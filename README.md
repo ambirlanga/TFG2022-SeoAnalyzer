@@ -1,7 +1,7 @@
 # Ariel Martinez Birlanga - Computer Science Thesis
 ## SEO Web Analyzer
 
-WARNING: Google API KEY Placeholder used for privacy. A functional key is needed for the code to work. 
+WARNING: Google API KEY Placeholder used for privacy. A functional key is needed for the code to work. (GKEY_PLACEHOLDER)
 
 [EN] Nowadays, Search Engine Optimization (SEO) has become one of the top priorities for any company that wants to have some presence on the web. To achieve this task, the study on Google's PageRank algorithms has been going on for decades, but their continuous updates and complexity have made SEO a wide and complex development area.
 
@@ -10,6 +10,8 @@ It is not difficult nowadays to find various tools, such as the famous web scrap
 This situation is what has motivated the creation of this project, where we will try to automate the analysis of the different factors that affect SEO for a given search (query) within the Google search engine. The elaborated code will try to determine the importance of each factor at present.
 
 ---
+
+ADVERTENCIA: El codigo muestra una clave provisional para la API de Google por motivos de privacidad. Se requiere una clave funcional para que el código funcione. (GKEY_PLACEHOLDER)
 
 [ES] En la actualidad, el posicionamiento web se ha convertido en una de las grandes prioridades para cualquier empresa que quiera tener presencia web. Para lograr dicha tarea se ha intentado estudiar los algoritmos PageRank de Google desde hace décadas, pero sus continuas actualizaciones y complejidad han hecho del posicionamiento orgánico (SEO o Search Engine Optimization) un área de desarrollo amplia y compleja.
 
